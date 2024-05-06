@@ -33,7 +33,7 @@ class Screen03 extends StatelessWidget {
                     child: ListView.builder(
                       itemBuilder: (context, index) => const IgPost(),
                     ),
-                  )
+                  ),
                 ],
               ),
             ),

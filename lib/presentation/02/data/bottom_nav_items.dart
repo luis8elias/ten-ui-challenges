@@ -1,7 +1,7 @@
 final bottomNavItems = [
-  'assets/002/Home.svg',
-  'assets/002/Heart.svg',
-  'assets/002/Notification.svg',
-  'assets/002/Buy.svg',
-  'assets/002/Group.svg',
+  'assets/02/Home.svg',
+  'assets/02/Heart.svg',
+  'assets/02/Notification.svg',
+  'assets/02/Buy.svg',
+  'assets/02/Group.svg',
 ];
